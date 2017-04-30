@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">OOPS !\nLooks like there is no available internet connection.</string>
+    <string name="action_go_to_popular">Popular movies</string>
+    <string name="action_go_most_rated">Most rated movies</string>
+    <string name="action_go_to_favourites">Favourite movies</string>
+    <string name="movie_title_test">Movie Title</string>
+    <string name="release_date">RELEASE DATE :</string>
+    <string name="release_date_test">DEC 15,2014</string>
+    <string name="plot_synopsis">PLOT SYNOPSIS :</string>
+    <string name="overview">Overview</string>
+    <string name="movie_rating">MOVIE RATING :</string>
+    <string name="movie_rating_test">8.1</string>
+    <string name="favourite_button_text">ADD TO FAVOURITES</string>
+    <string name="trailers_title">Movie trailers :</string>
+    <string name="trailer_name">Trailer name .</string>
+    <string name="reviews_title">Movie reviews :</string>
+    <string name="no_review_for_movie">No available reviews</string>
+    <string name="no_trailers">No available trailers</string>
+</resources>

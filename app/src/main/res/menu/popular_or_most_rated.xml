@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/go_to_popular"
+        android:title="@string/action_go_to_popular"
+        android:orderInCategory="1"></item>
+    <item android:id="@+id/go_to_most_rated"
+        android:title="@string/action_go_most_rated"
+        android:orderInCategory="2"></item>
+    <item android:id="@+id/go_to_favourite"
+        android:title="@string/action_go_to_favourites"
+        android:orderInCategory="3"></item>
+
+</menu>

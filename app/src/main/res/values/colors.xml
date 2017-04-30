@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#eeff41</color>
+    <color name="buttonPressed">#1565c0</color>
+    <color name="buttonNormal">#64b5f6</color>
+    <color name="trailerListItemNormal">#e0e0e0</color>
+    <color name="trailerListItemPressed">#757575</color>
+</resources>
